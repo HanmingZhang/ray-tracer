@@ -1,6 +1,59 @@
 Ray Tracer Part II
 ======================
 
+
+Name : Hanming Zhang
+Pennkey : hanming
+
+Extra Credits: 
+Normal Map Implemented
+
+
+Final Render Images
+------------------------
+
+transparent_containing_objects.json
+
+![](./43.png)
+
+
+all_shapes.json
+
+![](./39.png)
+
+
+stained_glass.json
+
+![](./40.png)
+
+
+transparent_shadow_test.json
+
+![](./41.png)
+
+
+cornell_box.json
+
+![](./42.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **University of Pennsylvania, CIS 561: Advanced Computer Graphics, Homework 2**
 
 Overview
