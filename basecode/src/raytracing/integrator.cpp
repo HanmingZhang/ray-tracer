@@ -152,7 +152,7 @@ bool Integrator::lightFeelerRay_ObstructionTest(Ray r, glm::vec3 light_pos, bool
 
                         glm::vec2 uv = tempList[i].object_hit->GetUVCoordinates(tempList[i].point);
 
-                        TransmissiveMaterialMaskColor *= (tempList[i].object_hit->material->GetImageColor(uv, tempList[0].object_hit->material->texture) *
+                        TransmissiveMaterialMaskColor *= (tempList[i].object_hit->material->GetImageColor(uv, tempList[i].object_hit->material->texture) *
                                                           tempList[i].object_hit->material->base_color);
                     }
 
