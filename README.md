@@ -10,13 +10,18 @@ Extra Credits
 ------------------------
 Normal Map Implemented
 
+AAx2 (default turn off, because will be severely stuttering during rendering,
+     change const bool AAx2 to turn on)
+     
+     
+
 
 Final Render Images
 ------------------------
 
-transparent_containing_objects.json
+transparent_containing_objects.json:    transparent_containing_objects.json AAx2:  
 
-![](./43.png)
+![](./43.png)   ![](./43_x2.png)
 
 
 all_shapes.json
