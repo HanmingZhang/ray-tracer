@@ -6,7 +6,7 @@ Name : Hanming Zhang
 Pennkey : hanming
 
 
-Extra Credits:
+Extra Credits
 ------------------------
 Normal Map Implemented
 
