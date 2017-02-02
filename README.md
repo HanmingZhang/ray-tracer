@@ -19,9 +19,13 @@ AAx2 (default turn off, because will be severely stuttering during rendering,
 Final Render Images
 ------------------------
 
-transparent_containing_objects.json:    transparent_containing_objects.json AAx2:  
+transparent_containing_objects.json:
 
-![](./43.png)   ![](./43_x2.png)
+![](./43.png)
+
+AA comparison:
+
+![](./compare.gif)
 
 
 all_shapes.json
