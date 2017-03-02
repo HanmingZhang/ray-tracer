@@ -4,7 +4,7 @@ Ray Tracer
 **University of Pennsylvania, CIS 561: Advanced Computer Graphics, course project**
 
 
-Extra Credits
+Other features
 ------------------------
 Normal Map Implemented
 
